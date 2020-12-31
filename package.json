@@ -1,5 +1,5 @@
 {
-  "name": "electron-template",
+  "name": "electron-react-template",
   "version": "1.0.0",
   "main": "build/main.js",
   "license": "UNLICENSED",
@@ -14,8 +14,8 @@
     "postinstall": "electron-rebuild"
   },
   "build": {
-    "appId": "yak.electron-template",
-    "productName": "Electron Template",
+    "appId": "jcb.electron-react-template",
+    "productName": "Electron React Template",
     "files": "build/**/*",
     "directories": {
       "output": "dist",
